@@ -10,7 +10,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### Modifications
 October 6, 2020 - I modified the Flix App to be responsive in both landscape and portrait mode
 Here is the updated walkthrough image:
-<img src="flixApp_mod100620.gif" alt="Responsive walkthrough for Flix App"/>
+<img src="flixApp_mod100620.gif" alt="Responsive walkthrough for Flix App" width=250/>
 
 ### User Stories
 
